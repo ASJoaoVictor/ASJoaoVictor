@@ -1,4 +1,4 @@
-# Olá, eu sou o João Victor 👋
+# Olá, eu sou João Victor 👋
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sistemas%20para%20Internet&fontSize=70)
 
