@@ -1,39 +1,29 @@
-# Olá, eu sou o Joao Victor 👋
+# Olá, eu sou o João Victor 👋
 
-### 🎓 Estudante de Sistemas para Internet 
-Atualmente cursando o Bacharelado em **Sistemas para Internet**, focado em construir soluções web completas, desde a infraestrutura de dados até interfaces modernas e responsivas.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sistemas%20para%20Internet&fontSize=70)
 
----
-
-### 💻 Sobre mim
-- 🚀 Desenvolvendo projetos práticos com **React** e **Python**.
-- 🛠️ Interessado em Arquitetura de Software, Sistemas Distribuídos e Segurança da Informação.
-- 📚 Constantemente aplicando os conceitos da graduação em projetos de código aberto.
-- 🎯 Objetivo: Evoluir como Desenvolvedor Full Stack e contribuir para projetos inovadores.
+### 🎓 Formação Acadêmica
+- **Curso:** Tecnólogo em Sistemas para Internet.
+- **Foco:** Desenvolvimento de programas, interfaces, aplicativos e sistemas distribuídos.
+- **Competências de Grade:** Gestão de projetos de sistemas, segurança da informação e marketing eletrônico.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 💻 Stack Tecnológico
 
-| Área | Tecnologias |
-| :--- | :--- |
-| **Front-end** | React, JavaScript (ES6+), HTML5, CSS3 |
-| **Back-end** | Python, Desenvolvimento de APIs |
-| **Bancos de Dados** | SQL, Modelagem de Dados |
-| **Outros** | Git, GitHub, Programação Orientada a Objetos (POO) |
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 📊 Meu Desempenho no GitHub
-![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=j.victor.dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j.victor.dev&layout=compact&theme=radical)
+### 🚀 Sobre mim
+- Atualmente aplicando conceitos de **Sistemas para Internet** em projetos práticos.
+- Desenvolvendo soluções com foco em **Python** e **React**.
+- Interessado em tecnologias emergentes como computação móvel e redes sem fio.
 
 ---
 
-### 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/joao-victor](http://www.linkedin.com/in/joão-victor-araújo-943a2916a)
-<!-- - **E-mail:** [seu-email@exemplo.com] -->
-
----
-
-> "Transformando lógica e estrutura de dados em experiências digitais."
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-victor-araújo-943a2916a)
